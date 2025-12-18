@@ -44,7 +44,7 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 | **IT120_Activities** | Python exercises and academic assignments |
 | **IT108_Activities** | School activities and projects in different languages |
 | **Flutter_Widget_UIComponents** | Flutter UI component showcase |
-| **Pick-and-Match** | CSS project focusing on styling and responsive design |
+| **Jabla_IT120_Act1** | Uploading Github files Using Git |
 | **Flutter_Projects** | Flutter & Dart experiments |
 
 💡 *More projects coming soon as I continue to build and improve my skills.*

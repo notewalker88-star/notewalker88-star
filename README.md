@@ -1,4 +1,4 @@
-# Hey 👋, I'm Vincent Andrie Jbla (notewalker88-star)
+# Hey 👋, I'm Vincent Andrie Jabla (notewalker88-star)
 
 🎯 **Aspiring Full-Stack & Front-End Developer** — passionate about building clean, efficient, and user-friendly web applications.  
 📍 Based in *Cabadbaran City, Agusan Del Norte, Philippines*

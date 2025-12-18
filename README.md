@@ -69,8 +69,8 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 
 ## 🌐 Connect With Me
 
-- 📧 Email: your.email@gmail.com
-- 🌍 GitHub: https://github.com/yourusername
+- 📧 Email: vincentandrie.jabla@csucc.edu.ph
+- 🌍 GitHub: https://github.com/notewalker88-star
 
 ---
 
